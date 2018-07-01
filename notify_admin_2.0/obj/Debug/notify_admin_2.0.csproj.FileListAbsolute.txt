@@ -1,0 +1,9 @@
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\obj\Debug\notify_admin_2.0.csprojAssemblyReference.cache
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\bin\Debug\notify_admin_2.0.exe
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\bin\Debug\notify_admin_2.0.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\obj\Debug\notify_admin_2._0.Form1.resources
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\obj\Debug\notify_admin_2._0.Properties.Resources.resources
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\obj\Debug\notify_admin_2.0.csproj.GenerateResource.cache
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\obj\Debug\notify_admin_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\obj\Debug\notify_admin_2.0.exe
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\notification\notify_admin_2.0\notify_admin_2.0\obj\Debug\notify_admin_2.0.pdb
